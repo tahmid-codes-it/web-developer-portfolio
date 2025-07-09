@@ -87,6 +87,9 @@ background-color: #FFF8F3;
 .dark-2 {
     color: #474747;
 }
+.dark-3{
+    color: #757575;
+}
 
 .btn-primary {
     background-color: #FD6E0A;
@@ -161,5 +164,56 @@ gap: 24px;
     border-radius: 5px;
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
     
+}
+
+/* resume styles */
+.section-title{
+    color: #181818;
+    font-size: 35px;
+    margin-bottom: 113px;
+    text-align: center;
+}
+
+
+.resume-container{
+    display: flex;
+    gap: 71px;
+}
+
+.main-title{
+    font-size: 30px;
+    margin: 0;
+    margin-bottom: 30px;
+}
+
+.subtitle-one{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 0;
+
+}
+
+.subtitle-two{
+    font-size: 20px;
+    font-weight: 600px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    
+}
+
+.resume-description{
+    font-size: 16px;
+    color: #757575;
+    margin: 0;
+    margin-top: 20px;
+}
+
+hr{
+    margin: 30px 3px;
+}
+
+.summary-button{
+    margin-top: 50px;
+    text-align: center;
 }
 
